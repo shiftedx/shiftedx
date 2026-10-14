@@ -13,5 +13,4 @@ I build local-first tools for AI agents, inference, media, and game hardware.
 | [Session extractor](https://github.com/shiftedx/coding-agent-session-extractor) | Export local Codex and Claude Code sessions with explicit privacy controls |
 | [H3 Performance Prep](https://github.com/shiftedx/ComfyUI-H3-Performance-Prep) | Prepare frame-aligned audio and prompts for ComfyUI H3 scenes |
 
-Development forks: [MTPLX](https://github.com/shiftedx/MTPLX) · [MLX-VLM](https://github.com/shiftedx/mlx-vlm).
 Building at [CozyLabs](https://cozylabs.ai).
